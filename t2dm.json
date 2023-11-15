@@ -1,0 +1,1505 @@
+{
+    "ConceptSets": [
+      {
+        "id": 0,
+        "name": "Type 2 DM",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "44054006",
+                "CONCEPT_ID": 201826,
+                "CONCEPT_NAME": "Type 2 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "313436004",
+                "CONCEPT_ID": 4193704,
+                "CONCEPT_NAME": "Type 2 diabetes mellitus without complication",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "420662003",
+                "CONCEPT_ID": 443735,
+                "CONCEPT_NAME": "Coma due to diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "422014003",
+                "CONCEPT_ID": 443732,
+                "CONCEPT_NAME": "Disorder due to type 2 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "25093002",
+                "CONCEPT_ID": 443767,
+                "CONCEPT_NAME": "Disorder of eye due to diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "127013003",
+                "CONCEPT_ID": 192279,
+                "CONCEPT_NAME": "Disorder of kidney due to diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "421326000",
+                "CONCEPT_ID": 376065,
+                "CONCEPT_NAME": "Disorder of nervous system due to type 2 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "421750000",
+                "CONCEPT_ID": 443734,
+                "CONCEPT_NAME": "Ketoacidosis due to type 2 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "422166005",
+                "CONCEPT_ID": 443729,
+                "CONCEPT_NAME": "Peripheral circulatory disorder due to type 2 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "44054006",
+                "CONCEPT_ID": 201826,
+                "CONCEPT_NAME": "Type 2 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 1,
+        "name": "Type 1 DM",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "420868002",
+                "CONCEPT_ID": 435216,
+                "CONCEPT_NAME": "Disorder due to type 1 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "421468001",
+                "CONCEPT_ID": 377821,
+                "CONCEPT_NAME": "Disorder of nervous system due to type 1 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "421365002",
+                "CONCEPT_ID": 318712,
+                "CONCEPT_NAME": "Peripheral circulatory disorder due to type 1 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "421893009",
+                "CONCEPT_ID": 200687,
+                "CONCEPT_NAME": "Renal disorder due to type 1 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "46635009",
+                "CONCEPT_ID": 201254,
+                "CONCEPT_NAME": "Type 1 diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "id": 3,
+        "name": "DM Medications",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "16681",
+                "CONCEPT_ID": 1529331,
+                "CONCEPT_NAME": "acarbose",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "1488564",
+                "CONCEPT_ID": 44785829,
+                "CONCEPT_NAME": "dapagliflozin",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "1551291",
+                "CONCEPT_ID": 45774435,
+                "CONCEPT_NAME": "dulaglutide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "60548",
+                "CONCEPT_ID": 1583722,
+                "CONCEPT_NAME": "exenatide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "4816",
+                "CONCEPT_ID": 19059796,
+                "CONCEPT_NAME": "gliclazide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "25789",
+                "CONCEPT_ID": 1597756,
+                "CONCEPT_NAME": "glimepiride",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "4821",
+                "CONCEPT_ID": 1560171,
+                "CONCEPT_NAME": "glipizide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "4815",
+                "CONCEPT_ID": 1559684,
+                "CONCEPT_NAME": "glyburide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "1100699",
+                "CONCEPT_ID": 40239216,
+                "CONCEPT_NAME": "linagliptin",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "475968",
+                "CONCEPT_ID": 40170911,
+                "CONCEPT_NAME": "liraglutide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "6809",
+                "CONCEPT_ID": 1503297,
+                "CONCEPT_NAME": "metformin",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "274332",
+                "CONCEPT_ID": 1502826,
+                "CONCEPT_NAME": "nateglinide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "33738",
+                "CONCEPT_ID": 1525215,
+                "CONCEPT_NAME": "pioglitazone",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "73044",
+                "CONCEPT_ID": 1516766,
+                "CONCEPT_NAME": "repaglinide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "84108",
+                "CONCEPT_ID": 1547504,
+                "CONCEPT_NAME": "rosiglitazone",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "593411",
+                "CONCEPT_ID": 1580747,
+                "CONCEPT_NAME": "sitagliptin",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "596554",
+                "CONCEPT_ID": 19122137,
+                "CONCEPT_NAME": "vildagliptin",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "OMOP4819461",
+                "CONCEPT_ID": 35198096,
+                "CONCEPT_NAME": "insulin aspart",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm Extension"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "139825",
+                "CONCEPT_ID": 1516976,
+                "CONCEPT_NAME": "insulin detemir",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "274783",
+                "CONCEPT_ID": 1502905,
+                "CONCEPT_NAME": "insulin glargine",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "400008",
+                "CONCEPT_ID": 1544838,
+                "CONCEPT_NAME": "insulin glulisine, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "86009",
+                "CONCEPT_ID": 1550023,
+                "CONCEPT_NAME": "insulin lispro",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "236646",
+                "CONCEPT_ID": 19091621,
+                "CONCEPT_NAME": "insulin, protamine zinc, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "253182",
+                "CONCEPT_ID": 1596977,
+                "CONCEPT_NAME": "insulin, regular, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "253182",
+                "CONCEPT_ID": 1596977,
+                "CONCEPT_NAME": "insulin, regular, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "86009",
+                "CONCEPT_ID": 1550023,
+                "CONCEPT_NAME": "insulin lispro",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "51428",
+                "CONCEPT_ID": 1567198,
+                "CONCEPT_NAME": "insulin aspart, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "274783",
+                "CONCEPT_ID": 1502905,
+                "CONCEPT_NAME": "insulin glargine",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "314684",
+                "CONCEPT_ID": 1513876,
+                "CONCEPT_NAME": "insulin lispro protamine, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "352385",
+                "CONCEPT_ID": 1531601,
+                "CONCEPT_NAME": "insulin aspart protamine, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "221109",
+                "CONCEPT_ID": 1586346,
+                "CONCEPT_NAME": "insulin, regular, pork",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "400008",
+                "CONCEPT_ID": 1544838,
+                "CONCEPT_NAME": "insulin glulisine, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "139825",
+                "CONCEPT_ID": 1516976,
+                "CONCEPT_NAME": "insulin detemir",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "235275",
+                "CONCEPT_ID": 1590165,
+                "CONCEPT_NAME": "insulin, regular, beef-pork",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "314683",
+                "CONCEPT_ID": 1513849,
+                "CONCEPT_NAME": "lente insulin, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "93108",
+                "CONCEPT_ID": 1562586,
+                "CONCEPT_NAME": "lente insulin, pork",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "631657",
+                "CONCEPT_ID": 1588986,
+                "CONCEPT_NAME": "insulin human, rDNA origin",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "314682",
+                "CONCEPT_ID": 1513843,
+                "CONCEPT_NAME": "lente insulin, beef-pork",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "221110",
+                "CONCEPT_ID": 1586369,
+                "CONCEPT_NAME": "ultralente insulin, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "1740938",
+                "CONCEPT_ID": 35605670,
+                "CONCEPT_NAME": "insulin argine",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "1670007",
+                "CONCEPT_ID": 35602717,
+                "CONCEPT_NAME": "insulin degludec",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 3rd",
+                "CONCEPT_CODE": "A10A",
+                "CONCEPT_ID": 21600713,
+                "CONCEPT_NAME": "INSULINS AND ANALOGUES",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Drug",
+                "CONCEPT_CODE": "311053",
+                "CONCEPT_ID": 19078608,
+                "CONCEPT_NAME": "insulin, protamine zinc, beef-pork 100 UNT/ML Injectable Suspension",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 4,
+        "name": "Secondary DM",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "8801005",
+                "CONCEPT_ID": 195771,
+                "CONCEPT_NAME": "Secondary diabetes mellitus",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 5,
+        "name": "Sulfonylureas",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "A10BB",
+                "CONCEPT_ID": 21600749,
+                "CONCEPT_NAME": "Sulfonylureas",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 6,
+        "name": "SGLT2 Inhibitor",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "A10BK",
+                "CONCEPT_ID": 1123627,
+                "CONCEPT_NAME": "Sodium-glucose co-transporter 2 (SGLT2) inhibitors",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 7,
+        "name": "Alpha Glucosidase Inhibitors",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "A10BF",
+                "CONCEPT_ID": 21600775,
+                "CONCEPT_NAME": "Alpha glucosidase inhibitors",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 8,
+        "name": "Biguanides",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "A10BA",
+                "CONCEPT_ID": 21600745,
+                "CONCEPT_NAME": "Biguanides",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 9,
+        "name": "DPP4 Inhibitors",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "A10BH",
+                "CONCEPT_ID": 21600783,
+                "CONCEPT_NAME": "Dipeptidyl peptidase 4 (DPP-4) inhibitors",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 10,
+        "name": "GLP1 Receptor Agonists",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "A10BJ",
+                "CONCEPT_ID": 1123618,
+                "CONCEPT_NAME": "Glucagon-like peptide-1 (GLP-1) analogues",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 11,
+        "name": "Insulin",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "253182",
+                "CONCEPT_ID": 1596977,
+                "CONCEPT_NAME": "insulin, regular, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "86009",
+                "CONCEPT_ID": 1550023,
+                "CONCEPT_NAME": "insulin lispro",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "51428",
+                "CONCEPT_ID": 1567198,
+                "CONCEPT_NAME": "insulin aspart, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "274783",
+                "CONCEPT_ID": 1502905,
+                "CONCEPT_NAME": "insulin glargine",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "314684",
+                "CONCEPT_ID": 1513876,
+                "CONCEPT_NAME": "insulin lispro protamine, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "352385",
+                "CONCEPT_ID": 1531601,
+                "CONCEPT_NAME": "insulin aspart protamine, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "221109",
+                "CONCEPT_ID": 1586346,
+                "CONCEPT_NAME": "insulin, regular, pork",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "400008",
+                "CONCEPT_ID": 1544838,
+                "CONCEPT_NAME": "insulin glulisine, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "139825",
+                "CONCEPT_ID": 1516976,
+                "CONCEPT_NAME": "insulin detemir",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "235275",
+                "CONCEPT_ID": 1590165,
+                "CONCEPT_NAME": "insulin, regular, beef-pork",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "314683",
+                "CONCEPT_ID": 1513849,
+                "CONCEPT_NAME": "lente insulin, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "93108",
+                "CONCEPT_ID": 1562586,
+                "CONCEPT_NAME": "lente insulin, pork",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "631657",
+                "CONCEPT_ID": 1588986,
+                "CONCEPT_NAME": "insulin human, rDNA origin",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "314682",
+                "CONCEPT_ID": 1513843,
+                "CONCEPT_NAME": "lente insulin, beef-pork",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "221110",
+                "CONCEPT_ID": 1586369,
+                "CONCEPT_NAME": "ultralente insulin, human",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "1740938",
+                "CONCEPT_ID": 35605670,
+                "CONCEPT_NAME": "insulin argine",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "1670007",
+                "CONCEPT_ID": 35602717,
+                "CONCEPT_NAME": "insulin degludec",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 3rd",
+                "CONCEPT_CODE": "A10A",
+                "CONCEPT_ID": 21600713,
+                "CONCEPT_NAME": "INSULINS AND ANALOGUES",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Drug",
+                "CONCEPT_CODE": "311053",
+                "CONCEPT_ID": 19078608,
+                "CONCEPT_NAME": "insulin, protamine zinc, beef-pork 100 UNT/ML Injectable Suspension",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "475968",
+                "CONCEPT_ID": 40170911,
+                "CONCEPT_NAME": "liraglutide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              },
+              "isExcluded": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 12,
+        "name": "Other Anti Diabetics",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "A10BX",
+                "CONCEPT_ID": 21600788,
+                "CONCEPT_NAME": "Other blood glucose lowering drugs, excl. insulins",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 13,
+        "name": "Thiazolidindiones",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "A10BG",
+                "CONCEPT_ID": 21600779,
+                "CONCEPT_NAME": "Thiazolidinediones",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      }
+    ],
+    "PrimaryCriteria": {
+      "CriteriaList": [
+        {
+          "ConditionOccurrence": {
+            "CodesetId": 0
+          }
+        }
+      ],
+      "ObservationWindow": {
+        "PriorDays": 0,
+        "PostDays": 0
+      },
+      "PrimaryCriteriaLimit": {
+        "Type": "First"
+      }
+    },
+    "AdditionalCriteria": {
+      "Type": "ALL",
+      "CriteriaList": [
+        {
+          "Criteria": {
+            "DrugExposure": {
+              "CodesetId": 3
+            }
+          },
+          "StartWindow": {
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Coeff": 1
+            },
+            "UseEventEnd": false
+          },
+          "Occurrence": {
+            "Type": 2,
+            "Count": 1
+          }
+        }
+      ],
+      "DemographicCriteriaList": [
+        {
+          "Age": {
+            "Value": 18,
+            "Op": "gte"
+          }
+        }
+      ],
+      "Groups": []
+    },
+    "QualifiedLimit": {
+      "Type": "First"
+    },
+    "ExpressionLimit": {
+      "Type": "First"
+    },
+    "InclusionRules": [
+      {
+        "name": "No Prior Type 1 DM ",
+        "expression": {
+          "Type": "ALL",
+          "CriteriaList": [
+            {
+              "Criteria": {
+                "ConditionOccurrence": {
+                  "CodesetId": 1
+                }
+              },
+              "StartWindow": {
+                "Start": {
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 0,
+                  "Coeff": 1
+                },
+                "UseEventEnd": false
+              },
+              "Occurrence": {
+                "Type": 0,
+                "Count": 0
+              }
+            }
+          ],
+          "DemographicCriteriaList": [],
+          "Groups": []
+        }
+      },
+      {
+        "name": "No Secondary DM",
+        "expression": {
+          "Type": "ALL",
+          "CriteriaList": [
+            {
+              "Criteria": {
+                "ConditionOccurrence": {
+                  "CodesetId": 4
+                }
+              },
+              "StartWindow": {
+                "Start": {
+                  "Coeff": -1
+                },
+                "End": {
+                  "Days": 0,
+                  "Coeff": 1
+                },
+                "UseEventEnd": false
+              },
+              "IgnoreObservationPeriod": true,
+              "Occurrence": {
+                "Type": 0,
+                "Count": 0
+              }
+            }
+          ],
+          "DemographicCriteriaList": [],
+          "Groups": []
+        }
+      }
+    ],
+    "CensoringCriteria": [],
+    "CollapseSettings": {
+      "CollapseType": "ERA",
+      "EraPad": 0
+    },
+    "CensorWindow": {},
+    "cdmVersionRange": ">=5.0.0"
+  }

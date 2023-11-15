@@ -1,0 +1,173 @@
+{
+    "ConceptSets": [
+      {
+        "id": 0,
+        "name": "Hypertension",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "59621000",
+                "CONCEPT_ID": 320128,
+                "CONCEPT_NAME": "Essential hypertension",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 1,
+        "name": "HT Medications",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "5487",
+                "CONCEPT_ID": 974166,
+                "CONCEPT_NAME": "hydrochlorothiazide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Ingredient",
+                "CONCEPT_CODE": "10772",
+                "CONCEPT_ID": 904639,
+                "CONCEPT_NAME": "trichlormethiazide",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "RxNorm"
+              }
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 3rd",
+                "CONCEPT_CODE": "C09A",
+                "CONCEPT_ID": 21601783,
+                "CONCEPT_NAME": "ACE INHIBITORS, PLAIN",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "C09CA",
+                "CONCEPT_ID": 21601823,
+                "CONCEPT_NAME": "Angiotensin II receptor blockers (ARBs), plain",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 3rd",
+                "CONCEPT_CODE": "C08C",
+                "CONCEPT_ID": 21601745,
+                "CONCEPT_NAME": "SELECTIVE CALCIUM CHANNEL BLOCKERS WITH MAINLY VASCULAR EFFECTS",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      }
+    ],
+    "PrimaryCriteria": {
+      "CriteriaList": [
+        {
+          "ConditionOccurrence": {
+            "CodesetId": 0
+          }
+        }
+      ],
+      "ObservationWindow": {
+        "PriorDays": 0,
+        "PostDays": 0
+      },
+      "PrimaryCriteriaLimit": {
+        "Type": "First"
+      }
+    },
+    "AdditionalCriteria": {
+      "Type": "ALL",
+      "CriteriaList": [
+        {
+          "Criteria": {
+            "DrugExposure": {
+              "CodesetId": 1
+            }
+          },
+          "StartWindow": {
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Coeff": 1
+            },
+            "UseEventEnd": false
+          },
+          "Occurrence": {
+            "Type": 2,
+            "Count": 1
+          }
+        }
+      ],
+      "DemographicCriteriaList": [
+        {
+          "Age": {
+            "Value": 18,
+            "Op": "gte"
+          }
+        }
+      ],
+      "Groups": []
+    },
+    "QualifiedLimit": {
+      "Type": "First"
+    },
+    "ExpressionLimit": {
+      "Type": "First"
+    },
+    "InclusionRules": [],
+    "CensoringCriteria": [],
+    "CollapseSettings": {
+      "CollapseType": "ERA",
+      "EraPad": 0
+    },
+    "CensorWindow": {},
+    "cdmVersionRange": ">=5.0.0"
+  }

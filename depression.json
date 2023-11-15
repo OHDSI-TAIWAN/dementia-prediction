@@ -1,0 +1,340 @@
+{
+    "ConceptSets": [
+      {
+        "id": 0,
+        "name": "Depression",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "191676002",
+                "CONCEPT_ID": 435520,
+                "CONCEPT_NAME": "Reactive depressive psychosis",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "442057004",
+                "CONCEPT_ID": 40481798,
+                "CONCEPT_NAME": "Chronic depressive personality disorder",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "310497006",
+                "CONCEPT_ID": 4149321,
+                "CONCEPT_NAME": "Severe depression",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "310495003",
+                "CONCEPT_ID": 4149320,
+                "CONCEPT_NAME": "Mild depression",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "310496002",
+                "CONCEPT_ID": 4151170,
+                "CONCEPT_NAME": "Moderate depression",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "191616006",
+                "CONCEPT_ID": 4098302,
+                "CONCEPT_NAME": "Recurrent depression",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "191659001",
+                "CONCEPT_ID": 438727,
+                "CONCEPT_NAME": "Atypical depressive disorder",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "370143000",
+                "CONCEPT_ID": 4152280,
+                "CONCEPT_NAME": "Major depressive disorder",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "84760002",
+                "CONCEPT_ID": 4224940,
+                "CONCEPT_NAME": "Schizoaffective disorder, depressive type",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "698957003",
+                "CONCEPT_ID": 44782943,
+                "CONCEPT_NAME": "Depressive disorder in remission",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "191634005",
+                "CONCEPT_ID": 439251,
+                "CONCEPT_NAME": "Bipolar affective disorder, currently depressed, in full remission",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "isExcluded": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "Clinical Finding",
+                "CONCEPT_CODE": "765176007",
+                "CONCEPT_ID": 35622934,
+                "CONCEPT_NAME": "Psychosis and severe depression co-occurrent and due to bipolar affective disorder",
+                "DOMAIN_ID": "Condition",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "S",
+                "STANDARD_CONCEPT_CAPTION": "Standard",
+                "VOCABULARY_ID": "SNOMED"
+              },
+              "isExcluded": true
+            }
+          ]
+        }
+      },
+      {
+        "id": 1,
+        "name": "Depression Medication",
+        "expression": {
+          "items": [
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "N06AB",
+                "CONCEPT_ID": 21604709,
+                "CONCEPT_NAME": "Selective serotonin reuptake inhibitors",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "N06AG",
+                "CONCEPT_ID": 21604726,
+                "CONCEPT_NAME": "Monoamine oxidase A inhibitors",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "N06AX",
+                "CONCEPT_ID": 21604729,
+                "CONCEPT_NAME": "Other antidepressants",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "N06AA",
+                "CONCEPT_ID": 21604687,
+                "CONCEPT_NAME": "Non-selective monoamine reuptake inhibitors",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            },
+            {
+              "concept": {
+                "CONCEPT_CLASS_ID": "ATC 4th",
+                "CONCEPT_CODE": "N06AF",
+                "CONCEPT_ID": 21604719,
+                "CONCEPT_NAME": "Monoamine oxidase inhibitors, non-selective",
+                "DOMAIN_ID": "Drug",
+                "INVALID_REASON": "V",
+                "INVALID_REASON_CAPTION": "Valid",
+                "STANDARD_CONCEPT": "C",
+                "STANDARD_CONCEPT_CAPTION": "Classification",
+                "VOCABULARY_ID": "ATC"
+              },
+              "includeDescendants": true
+            }
+          ]
+        }
+      }
+    ],
+    "PrimaryCriteria": {
+      "CriteriaList": [
+        {
+          "ConditionOccurrence": {
+            "CodesetId": 0
+          }
+        }
+      ],
+      "ObservationWindow": {
+        "PriorDays": 0,
+        "PostDays": 0
+      },
+      "PrimaryCriteriaLimit": {
+        "Type": "First"
+      }
+    },
+    "AdditionalCriteria": {
+      "Type": "ALL",
+      "CriteriaList": [
+        {
+          "Criteria": {
+            "DrugExposure": {
+              "CodesetId": 1
+            }
+          },
+          "StartWindow": {
+            "Start": {
+              "Days": 0,
+              "Coeff": -1
+            },
+            "End": {
+              "Coeff": 1
+            },
+            "UseEventEnd": false
+          },
+          "Occurrence": {
+            "Type": 2,
+            "Count": 1
+          }
+        }
+      ],
+      "DemographicCriteriaList": [
+        {
+          "Age": {
+            "Value": 18,
+            "Op": "gte"
+          }
+        }
+      ],
+      "Groups": []
+    },
+    "QualifiedLimit": {
+      "Type": "First"
+    },
+    "ExpressionLimit": {
+      "Type": "First"
+    },
+    "InclusionRules": [],
+    "CensoringCriteria": [],
+    "CollapseSettings": {
+      "CollapseType": "ERA",
+      "EraPad": 0
+    },
+    "CensorWindow": {},
+    "cdmVersionRange": ">=5.0.0"
+  }
