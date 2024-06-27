@@ -8,7 +8,7 @@
 - Study lead forums tag: **-**
 - Study start date: **-**
 - Study end date: **-**
-- Protocol: **-**
+- Protocol: **https://github.com/OHDSI-TAIWAN/dementia-prediction/tree/main#:~:text=Dementia_AI_Protocol_v2_Nov16.docx**
 - Publications: **-**
 - Results explorer: **http://35.229.190.150/shiny/dementia/**
 
