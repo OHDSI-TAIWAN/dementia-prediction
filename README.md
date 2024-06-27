@@ -10,7 +10,7 @@
 - Study end date: **-**
 - Protocol: **-**
 - Publications: **-**
-- Results explorer: **-**
+- Results explorer: **http://35.229.190.150/shiny/dementia/**
 
 # Introduction
 This study aims to develop a personalized predictive model, utilizing artificial intelligence, to assess the 5-year dementia risk among patients with chronic diseases who are prescribed medications.
