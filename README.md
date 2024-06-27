@@ -1,6 +1,21 @@
 # PLP Dementia Prediction
+<img src="https://img.shields.io/badge/Study%20Status-Repo%20Created-lightgray.svg" alt="Study Status: Repo Created">
 
-How to run the study
+- Analytics use case(s): **Clinical Application**
+- Study type: **Patient-Level Prediction**
+- Tags: **Taiwan Chapter**
+- Study lead: **Jason Hsu, Alex Nguyen, Phan Thanh Phuc, Solie Maz**
+- Study lead forums tag: **-**
+- Study start date: **-**
+- Study end date: **-**
+- Protocol: **-**
+- Publications: **-**
+- Results explorer: **-**
+
+# Introduction
+This study aims to develop a personalized predictive model, utilizing artificial intelligence, to assess the 5-year dementia risk among patients with chronic diseases who are prescribed medications.
+
+# How to run the study
 1. Download the JSON files for cohort definition
 2. Import the JSON files to create cohorts in your ATLAS system
 3. Download the `plp_dem.r` script, adjust the cohort IDs for the target and outcome, and other setting based on your environment
